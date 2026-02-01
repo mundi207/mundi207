@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anjgkwl10)](https://solved.ac/anjgkwl10)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mundi207=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mundi207&show_icons=true&theme=radical)
 
 <!--
 **mundi207/mundi207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
