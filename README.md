@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={anjgkwl10})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anjgkwl10)](https://solved.ac/anjgkwl10)
 
 <!--
 **mundi207/mundi207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
